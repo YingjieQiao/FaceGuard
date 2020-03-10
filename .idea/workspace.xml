@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb279fd-e8ec-40d2-9086-fe57bd4f6de7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YupbM2U4Jpaz7OPzOA0tnD8VxV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.face_rec">
+    <configuration name="bruteForce_try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencvqiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloworlds" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworlds/bruteForce_try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="brute_force" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencvqiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helloworlds" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworlds/brute_force.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_rec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencvqiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/face_rec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faces-train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencvqiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV-Python-Series-master/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV-Python-Series-master/src/faces-train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencvqiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_rec" />
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.faces-train" />
+        <item itemvalue="Python.bruteForce_try" />
+        <item itemvalue="Python.brute_force" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb279fd-e8ec-40d2-9086-fe57bd4f6de7" name="Default Changelist" comment="" />
+      <created>1583802404088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583802404088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1233" height="271" key="GridCell.Tab.0.bottom" timestamp="1583839689869">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="271" key="GridCell.Tab.0.bottom/53.23.2507.1417@53.23.2507.1417" timestamp="1583839689869" />
+    <state width="1233" height="271" key="GridCell.Tab.0.center" timestamp="1583839689869">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="271" key="GridCell.Tab.0.center/53.23.2507.1417@53.23.2507.1417" timestamp="1583839689869" />
+    <state width="1233" height="271" key="GridCell.Tab.0.left" timestamp="1583839689869">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="271" key="GridCell.Tab.0.left/53.23.2507.1417@53.23.2507.1417" timestamp="1583839689869" />
+    <state width="1233" height="271" key="GridCell.Tab.0.right" timestamp="1583839689869">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="271" key="GridCell.Tab.0.right/53.23.2507.1417@53.23.2507.1417" timestamp="1583839689869" />
+    <state width="1233" height="501" key="GridCell.Tab.1.bottom" timestamp="1583824526647">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="501" key="GridCell.Tab.1.bottom/53.23.2507.1417@53.23.2507.1417" timestamp="1583824526647" />
+    <state width="1233" height="501" key="GridCell.Tab.1.center" timestamp="1583824526647">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="501" key="GridCell.Tab.1.center/53.23.2507.1417@53.23.2507.1417" timestamp="1583824526647" />
+    <state width="1233" height="501" key="GridCell.Tab.1.left" timestamp="1583824526646">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="501" key="GridCell.Tab.1.left/53.23.2507.1417@53.23.2507.1417" timestamp="1583824526646" />
+    <state width="1233" height="501" key="GridCell.Tab.1.right" timestamp="1583824526647">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state width="1233" height="501" key="GridCell.Tab.1.right/53.23.2507.1417@53.23.2507.1417" timestamp="1583824526647" />
+    <state x="999" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1583802434462">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state x="999" y="563" key="com.intellij.ide.util.TipDialog/53.23.2507.1417@53.23.2507.1417" timestamp="1583802434462" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OpenCV-Python-Series-master/src/faces-train.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
