@@ -104,4 +104,4 @@ yingjie
 yingjie
 ```
 
-And what really proves it work: pic, addd in later, let me get done with the git stuff first.
+And what really proves it work: ![first-try-out](https://github.com/YingjieQiao/probably-fine/blob/master/asset/IMG_7461.png)
