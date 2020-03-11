@@ -65,9 +65,14 @@ Alternatively, you can just `pip install opencv-python` in Spyder terminal and y
 
 **Mar 10, Tues, wk7, yingjie**
 
-Brute force doesn't work. Try `Haar`. If still doesn't work, use CNN from Andrew Ng.
 
 `Haar` works so far. Thinking put CNN as "further improvenment" and do (to make prof happy) if I got time.
+
+**TODO**
+
+**add in eye detection to increase accuracy**
+
+**more pics to serve as training data**
 
 *clean up documentation formatting after I get most stuff straight*
 
