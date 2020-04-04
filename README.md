@@ -1,5 +1,8 @@
 # 10.009-1D-Project
 
+1D is cancelled. this term has been a joke.
+
+I'll do what I can about this proj.
 
 #### TODO:  
 Hardware: rpi, [webcam](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2849), speaker, LEDs (green and red lights)
