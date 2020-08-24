@@ -1,33 +1,5 @@
 # 10.009-1D-Project
 
-1D is cancelled. this term has been a joke.
-
-So this is my personal proj now lmao
-
-#### TODO:  
-Hardware: rpi, [webcam](https://www.sgbotic.com/index.php?dispatch=products.view&product_id=2849), speaker, LEDs (green and red lights)
-
-GUI: displaying the person's face, match ID/name, green/red light
-
-Poster,
-
-Tidy, modularized, easy-to-read code
-
-**A telegram bot to upload pic for visitors?**
-
-#### More than 1 sensors:
-
-Infra sensor (on thymio): check entrance by motion
-
-webcam connected to rpi
-
-#### Solution
-
-"Smart Campus" problem
-Use the concept of "Internet of Things"
-Use ML to do data prediction: openCV, learnt 5 pics of me, can tell the 6 is me!
-
-
 
 Software: 
 
